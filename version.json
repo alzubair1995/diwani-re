@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "buildNumber": 5,
+  "version": "1.0.5",
+  "buildNumber": 6,
   "mandatory": false,
   "releaseDate": "2026-08-12",
-  "downloadUrl": "https://github.com/alzubair1995/diwani-re/releases/download/v1.0.4/diwani-v1.0.4.apk",
+  "downloadUrl": "https://github.com/alzubair1995/diwani-re/releases/download/v1.0.5/diwani-v1.0.5.apk",
   "releaseNotes": [
-    "تم نقل نظام صلاحيات الأدمن إلى Firebase Custom Claims",
-    "هذا الإصدار ضروري لظهور لوحة الإدارة لحساب الأدمن"
+    "حساب الأدمن الأساسي يحصل تلقائياً على اشتراك Premium مدى الحياة",
+    "شاشة جديدة \"المشتركون\" في لوحة الإدارة — اضغط على أي مستخدم لتفعيل أو تعديل Premium مباشرة"
   ]
 }
