@@ -1,12 +1,11 @@
 {
-  "version": "1.0.9",
-  "buildNumber": 10,
+  "version": "1.0.10",
+  "buildNumber": 11,
   "mandatory": false,
   "releaseDate": "2026-08-12",
-  "downloadUrl": "https://github.com/alzubair1995/diwani-re/releases/download/v1.0.9/diwani-v1.0.9.apk",
+  "downloadUrl": "https://github.com/alzubair1995/diwani-re/releases/download/v1.0.10/diwani-v1.0.10.apk",
   "releaseNotes": [
-    "لوحة الإدارة: يمكن الآن حذف أي حساب مستخدم نهائياً، أو حظر حساب من تسجيل الدخول مؤقتاً",
-    "لوحة الإدارة: يمكن ترقية أي حساب إلى أدمن مباشرة من صفحة تفاصيل المستخدم",
-    "حساب الأدمن الأساسي محمي دائماً — لا يمكن حذفه أو حظره"
+    "إصلاح مشكلة عدم ظهور نافذة التحديث أحياناً عند توفر إصدار جديد",
+    "تحسينات على استقرار نظام التحديث التلقائي"
   ]
 }
